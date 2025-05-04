@@ -6,9 +6,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Portfólio-Em%20Desenvolvimento-blueviolet?style=for-the-badge&logo=wrench&logoColor=white"/>
-  <a href="https://github.com/RafaelSantana27" target="_blank"><img src="https://img.shields.io/badge/GitHub-RafaelSantana27-181717?style=for-the-badge&logo=github"></a>
+<!--   <a href="https://github.com/RafaelSantana27" target="_blank"><img src="https://img.shields.io/badge/GitHub-RafaelSantana27-181717?style=for-the-badge&logo=github"></a>
   <a href="https://www.linkedin.com/in/rafaelsantana27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rafael%20Santana-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.youtube.com/@programadordasilva" target="_blank"><img src="https://img.shields.io/badge/Youtube-Programador%20da%20Silva-FF0000?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.youtube.com/@programadordasilva" target="_blank"><img src="https://img.shields.io/badge/Youtube-Programador%20da%20Silva-FF0000?style=for-the-badge&logo=youtube"></a> -->
 </p>
 
 ---
@@ -88,7 +88,3 @@
 </div>
 
 ---
-
-<p align="center">
-  Feito com 💙 por Rafael Silva
-</p>
